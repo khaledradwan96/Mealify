@@ -8,12 +8,12 @@
 ## Features
 - Responsive design that looks great on all devices.
 - Easy-to-customize layout and styles.
-- Have 06 Sections 
-    - Home Screen with beautiful animation hover
-    - About with sample info and skills
-    - Chefs 
-    - Gallery with amazing view for all screen
-    - contact form with google map location
-    - footer with all links
+- Have 06 Sections
+  - Home Screen with beautiful animation hover
+  - About with sample info and skills
+  - Chefs
+  - Gallery with amazing view for all screen
+  - contact form with google map location
+  - footer with all links
 
 ## [Review link](https://khaledradwan96.github.io/Mealify/)
