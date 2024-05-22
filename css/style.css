@@ -24,35 +24,26 @@
 /* =====> General Style <===== */
 html {
   scroll-behavior: smooth;
-  box-sizing: border-box;
 }
-
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  scroll-behavior: smooth;
   font-size: 16px;
   font-weight: 400;
-  margin: 0;
-  padding: 0;
 }
-
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
-
 a {
   color: inherit;
   text-decoration: none;
 }
-
 img {
   display: block;
   max-width: 100%;
 }
-
 h1,
 h2,
 h3,
@@ -61,7 +52,6 @@ h5,
 h6 {
   font-family: var(--font-secondary);
 }
-
 ul {
   list-style: none;
 }
@@ -148,21 +138,11 @@ header .icons i:first-child {
   margin-left: 20px;
 }
 header .links {
-  /* position: absolute; */
-  /* top: 0; */
-  /* right: 0; */
-  /* background-color: #fff; */
-  /* border-left: 2px solid #f1f1f1; */
   color: var(--color-tertiary);
   font-weight: 600;
-  /* width: 350px; */
-  /* height: 100%; */
-  /* display: flex; */
-  /* flex-direction: column; */
   display: none;
 }
 header .links li {
-  /* margin-bottom: 30px; */
   padding: 5px 0;
   transition: var(--animation-duration);
   overflow: hidden;
